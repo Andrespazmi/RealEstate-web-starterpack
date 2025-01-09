@@ -13,7 +13,9 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-family: "Poppins", sans-serif;
+  font-family: "Asap", serif; 
+  font-size: 28px;
+  line-height: 1.6;
   scroll-behavior: smooth;
 }
 a {
